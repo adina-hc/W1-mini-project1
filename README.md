@@ -7,3 +7,5 @@ This exercise is to practice thecreation of a landing page:
 - Image/caption
 
 ![Webpage URL:](./images/demo-page.jpeg)
+
+[Webpage](https://adina-hc.github.io/mini-project-w1/)
