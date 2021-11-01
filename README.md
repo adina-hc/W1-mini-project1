@@ -1,4 +1,4 @@
-# mini-project1
+# Landing Page
 Unit 01 Mini-Project: Landing Page
 This exercise is to practice thecreation of a landing page:
 
